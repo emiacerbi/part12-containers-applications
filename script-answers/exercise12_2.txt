@@ -1,0 +1,33 @@
+Script started on Mon Mar 13 11:07:33 2023
+Restored session: Mon Mar 13 11:07:00 -03 2023
+[1m[7m%[27m[1m[0m                                                                                                   
+ 
+]7;file://MBP-de-solvd.fibertel.com.ar/Users/solvd/dev/part12-containers-applications/script-answers
+[0m[27m[24m[Jsolvd@MBP-de-solvd script-answers % [K[?2004h[7mdocker run -it ubuntu bash[27m[26D[27md[27mo[27mc[27mk[27me[27mr[27m [27mr[27mu[27mn[27m [27m-[27mi[27mt[27m [27mu[27mb[27mu[27mn[27mt[27mu[27m [27mb[27ma[27ms[27mh[?2004l
+
+[?2004h]0;root@ba7ee2882d26: /root@ba7ee2882d26:/# 
+[K]0;root@ba7ee2882d26: /root@ba7ee2882d26:/# ls
+[?2004l
+[0m[01;36mbin[0m  [01;34mboot[0m  [01;34mdev[0m  [01;34metc[0m  [01;34mhome[0m  [01;36mlib[0m  [01;34mmedia[0m  [01;34mmnt[0m  [01;34mopt[0m  [01;34mproc[0m  [01;34mroot[0m  [01;34mrun[0m  [01;36msbin[0m  [01;34msrv[0m  [01;34msys[0m  [30;42mtmp[0m  [01;34musr[0m  [01;34mvar[0m
+[?2004h]0;root@ba7ee2882d26: /root@ba7ee2882d26:/# cd usr/
+[?2004l
+[?2004h]0;root@ba7ee2882d26: /usrroot@ba7ee2882d26:/usr# mkdir app
+[?2004l
+[?2004h]0;root@ba7ee2882d26: /usrroot@ba7ee2882d26:/usr# cd app/
+[?2004l
+[?2004h]0;root@ba7ee2882d26: /usr/approot@ba7ee2882d26:/usr/app# touch index.js
+[?2004l
+[?2004h]0;root@ba7ee2882d26: /usr/approot@ba7ee2882d26:/usr/app# exit
+[?2004l
+exit
+[1m[7m%[27m[1m[0m                                                                                                   
+ 
+]7;file://MBP-de-solvd.fibertel.com.ar/Users/solvd/dev/part12-containers-applications/script-answers
+[0m[27m[24m[Jsolvd@MBP-de-solvd script-answers % [K[?2004heexit[?2004l
+
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Mon Mar 13 11:08:13 2023
